@@ -1,0 +1,4 @@
+INDEX VERSION 1.134+/home/higor/GitHub/ClassesUtilitarias/.metadata/.plugins/org.eclipse.jdt.core
+509631099.index
+1865797976.index
+2599392488.index

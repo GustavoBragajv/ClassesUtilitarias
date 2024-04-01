@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<libraryInfos>
+    <libraryInfo home="/usr/lib64/jvm/java-21-openjdk-21" version="21.0.2"/>
+    <libraryInfo home="/usr/lib/jvm/jdk-21-oracle-x64" version="21.0.2"/>
+</libraryInfos>
